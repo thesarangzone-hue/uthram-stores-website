@@ -16,7 +16,7 @@ A responsive multi-page website project for Uthram Stores, a neighbourhood conve
 - Google Fonts
 
 ## Before publishing
-1. Confirm the store's exact opening hours.
+1. Opening hours are set to Monday–Saturday, 9:00 AM–9:00 PM; confirm Sunday closure with the owner before final publication.
 2. Confirm whether delivery is offered and the actual delivery radius.
 3. Confirm any prices or availability labels that should be public.
 4. Replace/add real store photos only after receiving permission.
